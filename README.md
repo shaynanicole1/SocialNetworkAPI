@@ -1,4 +1,5 @@
 # 📱 Social Network API
+Walkthrough video// https://app.screencastify.com/v3/watch/fXjg4C4CArruIrcklQcx
 
 This is a RESTful API for a social network web application where users can share their thoughts, react to friends' thoughts, and manage a friend list. It is built using **Node.js**, **Express.js**, **MongoDB**, and **Mongoose**.
 
